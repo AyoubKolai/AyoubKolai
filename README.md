@@ -1,11 +1,11 @@
----
+
 # Hi there, I'm Ayoub! 👋
 
 ### Software Developer and Aspiring Engineer 
 
 I am a recent graduate from the University of Polytechnique Montréal, and I'm on a journey to sharpen my skills through various GitHub projects. I am passionate about software development, problem-solving, and continuous learning. My goal is to contribute to impactful projects, collaborate with like-minded individuals, and grow as a proficient software engineer.
 
-
+---
 ### About Me
 
 - 🔭 **Currently working on**: Enhancing my expertise in full-stack development and cloud computing.
