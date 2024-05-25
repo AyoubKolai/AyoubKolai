@@ -21,7 +21,7 @@ to impactful projects, collaborate with like-minded individuals, and grow as a p
 ---
 ### Get in Touch
 
-[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/kola%C3%AF-ayoub-3588531b6/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kola%C3%AF-ayoub-3588531b6/)
 [![Email](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:ayoubkolai4@gmail.com)
 
 I am always open to new opportunities, collaborations, and discussions. Feel free to reach out to me if you share similar interests or if you have an exciting project in mind. Let's build something amazing together!
